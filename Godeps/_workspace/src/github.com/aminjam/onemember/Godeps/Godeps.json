@@ -1,0 +1,26 @@
+{
+	"ImportPath": "github.com/aminjam/onemember",
+	"GoVersion": "go1.2.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/aminjam/onemember",
+			"Rev": "e6977999ce4a687ca0d6446ad86e567246ac5ade"
+		},
+		{
+			"ImportPath": "github.com/jameskeane/bcrypt",
+			"Rev": "c3cd44c1e20fec46baad45b108a45be93394dc8d"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Rev": "6b97cff17f16aef812d5c55c4892d40732d79eef"
+		},
+		{
+			"ImportPath": "github.com/onsi/ginkgo",
+			"Rev": "3632cbe0b58a9005513942e9d4c4920e375d6778"
+		},
+		{
+			"ImportPath": "github.com/onsi/gomega",
+			"Rev": "bad854a45453ec22d99c8bd982e2302f64d3fc37"
+		}
+	]
+}
